@@ -2,6 +2,28 @@
 ## [Unreleased]
 
 
+<a name="0.1.2"></a>
+## [0.1.2] - 2020-05-02
+
+<a name="0.1.1"></a>
+## [0.1.1] - 2020-04-30
+
+<a name="0.1.0"></a>
+## [0.1.0] - 2020-04-30
+### Feat
+- new release-it config
+- new print line
+
+
+<a name="0.0.5"></a>
+## [0.0.5] - 2020-04-30
+
+<a name="0.0.4"></a>
+## [0.0.4] - 2020-04-30
+### Perf
+- perform well
+
+
 <a name="0.0.3"></a>
 ## [0.0.3] - 2020-04-30
 ### Fix
@@ -20,6 +42,11 @@
 <a name="0.0.1"></a>
 ## 0.0.1 - 2020-04-30
 
-[Unreleased]: https://github.com/gopisaba/test-release/compare/0.0.3...HEAD
+[Unreleased]: https://github.com/gopisaba/test-release/compare/0.1.2...HEAD
+[0.1.2]: https://github.com/gopisaba/test-release/compare/0.1.1...0.1.2
+[0.1.1]: https://github.com/gopisaba/test-release/compare/0.1.0...0.1.1
+[0.1.0]: https://github.com/gopisaba/test-release/compare/0.0.5...0.1.0
+[0.0.5]: https://github.com/gopisaba/test-release/compare/0.0.4...0.0.5
+[0.0.4]: https://github.com/gopisaba/test-release/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/gopisaba/test-release/compare/0.0.2...0.0.3
 [0.0.2]: https://github.com/gopisaba/test-release/compare/0.0.1...0.0.2
