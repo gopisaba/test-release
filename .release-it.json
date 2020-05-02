@@ -6,6 +6,6 @@
     "release": true
   },
   "hooks": {
-    "after:bump": "git-chglog -o CHANGELOG.md"
+    "after:release": "git-chglog -o CHANGELOG.md"
   }
 }
