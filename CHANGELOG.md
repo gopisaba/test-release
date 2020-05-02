@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="0.1.9"></a>
+## [0.1.9] - 2020-05-03
+### Fix
+- **hook:** after git push
+
+
 <a name="0.1.8"></a>
 ## [0.1.8] - 2020-05-03
 ### Fix
@@ -88,7 +94,8 @@ It replaces the old Helm chart
 <a name="0.0.1"></a>
 ## 0.0.1 - 2020-04-30
 
-[Unreleased]: https://github.com/gopisaba/test-release/compare/0.1.8...HEAD
+[Unreleased]: https://github.com/gopisaba/test-release/compare/0.1.9...HEAD
+[0.1.9]: https://github.com/gopisaba/test-release/compare/0.1.8...0.1.9
 [0.1.8]: https://github.com/gopisaba/test-release/compare/0.1.7...0.1.8
 [0.1.7]: https://github.com/gopisaba/test-release/compare/0.1.6...0.1.7
 [0.1.6]: https://github.com/gopisaba/test-release/compare/0.1.5...0.1.6
