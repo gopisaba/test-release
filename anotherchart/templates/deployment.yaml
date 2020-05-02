@@ -1,24 +1,24 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ include "newchart.fullname" . }}
+  name: {{ include "anotherchart.fullname" . }}
   labels:
-    {{- include "newchart.labels" . | nindent 4 }}
+    {{- include "anotherchart.labels" . | nindent 4 }}
 spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      {{- include "newchart.selectorLabels" . | nindent 6 }}
+      {{- include "anotherchart.selectorLabels" . | nindent 6 }}
   template:
     metadata:
       labels:
-        {{- include "newchart.selectorLabels" . | nindent 8 }}
+        {{- include "anotherchart.selectorLabels" . | nindent 8 }}
     spec:
     {{- with .Values.imagePullSecrets }}
       imagePullSecrets:
         {{- toYaml . | nindent 8 }}
     {{- end }}
-      serviceAccountName: {{ include "newchart.serviceAccountName" . }}
+      serviceAccountName: {{ include "anotherchart.serviceAccountName" . }}
       securityContext:
         {{- toYaml .Values.podSecurityContext | nindent 8 }}
       containers:
