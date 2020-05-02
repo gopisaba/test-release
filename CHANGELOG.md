@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 ### Docs
+- add badge
+
+
+<a name="0.1.6"></a>
+## [0.1.6] - 2020-05-03
+### Docs
 - remove virtualservice
 
 
@@ -73,7 +79,8 @@ It replaces the old Helm chart
 <a name="0.0.1"></a>
 ## 0.0.1 - 2020-04-30
 
-[Unreleased]: https://github.com/gopisaba/test-release/compare/0.1.5...HEAD
+[Unreleased]: https://github.com/gopisaba/test-release/compare/0.1.6...HEAD
+[0.1.6]: https://github.com/gopisaba/test-release/compare/0.1.5...0.1.6
 [0.1.5]: https://github.com/gopisaba/test-release/compare/0.1.4...0.1.5
 [0.1.4]: https://github.com/gopisaba/test-release/compare/0.1.3...0.1.4
 [0.1.3]: https://github.com/gopisaba/test-release/compare/0.1.2...0.1.3
