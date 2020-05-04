@@ -1,3 +1,10 @@
+## [2.2.4](https://github.com/gopisaba/test-release/compare/v2.2.3...v2.2.4) (2020-05-04)
+
+
+### Bug Fixes
+
+* test exec ([404a3d0](https://github.com/gopisaba/test-release/commit/404a3d05372d742e3c19bc141d7308e25737db3d))
+
 ## [2.2.3](https://github.com/gopisaba/test-release/compare/v2.2.2...v2.2.3) (2020-05-04)
 
 
