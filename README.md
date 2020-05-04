@@ -23,12 +23,12 @@ npm install -g \
 [Reference](https://github.com/semantic-release/commit-analyzer#releaserules)
 [Reference](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
-| keyword  | release |
+| **keyword**  | **release** |
 | :------: | :-----: |
 | breaking |  major  |
 |  revert  |  patch  |
 
-| type  | release |
+| **type**  | **release** |
 | :---: | :-----: |
 | feat  |  minor  |
 |  fix  |  patch  |
