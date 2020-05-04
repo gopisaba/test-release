@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/gopisaba/test-release/compare/v2.0.0...v2.0.1) (2020-05-04)
+
+
+### Performance Improvements
+
+* **changelog:** add changelog plugin ([8c3d694](https://github.com/gopisaba/test-release/commit/8c3d69459fb4f45bcd9c3bf15ca440e2d70b78e0))
+
 <a name="unreleased"></a>
 ## [Unreleased]
 
