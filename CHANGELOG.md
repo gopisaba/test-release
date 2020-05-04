@@ -1,3 +1,11 @@
+## [2.2.3](https://github.com/gopisaba/test-release/compare/v2.2.2...v2.2.3) (2020-05-04)
+
+
+### Bug Fixes
+
+* **actions:** fix the github actions ([4328464](https://github.com/gopisaba/test-release/commit/43284642da28eb1308694648905ce798133e4b79))
+* **fail:** intentionally fail the release ([ee34e4b](https://github.com/gopisaba/test-release/commit/ee34e4b5dcc9c681dc04c92e79fddc648ea46a65))
+
 ## [2.2.2](https://github.com/gopisaba/test-release/compare/v2.2.1...v2.2.2) (2020-05-04)
 
 
