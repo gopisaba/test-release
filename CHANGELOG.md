@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/gopisaba/test-release/compare/v2.2.1...v2.2.2) (2020-05-04)
+
+
+### Bug Fixes
+
+* **badge:** add github badge ([b361374](https://github.com/gopisaba/test-release/commit/b361374502ccc7305d7f8064a2026d1936e002b7))
+
 ## [2.2.1](https://github.com/gopisaba/test-release/compare/v2.2.0...v2.2.1) (2020-05-04)
 
 
