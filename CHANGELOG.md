@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/gopisaba/test-release/compare/v2.0.1...v2.1.0) (2020-05-04)
+
+
+### Features
+
+* **changelog:** update the documentation ([28881d1](https://github.com/gopisaba/test-release/commit/28881d1475c2a1f377eafdbf112e6a8064af94df)), closes [#1](https://github.com/gopisaba/test-release/issues/1)
+
 ## [2.0.1](https://github.com/gopisaba/test-release/compare/v2.0.0...v2.0.1) (2020-05-04)
 
 
