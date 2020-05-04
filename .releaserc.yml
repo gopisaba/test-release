@@ -5,7 +5,7 @@ plugins:
   - "@semantic-release/release-notes-generator"
   - "@semantic-release/github"
   - - "@semantic-release/exec"
-    - publishCmd: "ls -al"
+    - prepareCmd: "sed -i \"s/version: .*/version: ${nextRelease.version}/g\" anotherchart/Chart.yaml"
   - - "@semantic-release/changelog"
     - assets:
       - CHANGELOG.md
