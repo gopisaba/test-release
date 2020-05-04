@@ -1,3 +1,15 @@
+## [2.2.5](https://github.com/gopisaba/test-release/compare/v2.2.4...v2.2.5) (2020-05-04)
+
+
+### Bug Fixes
+
+* automate the helm release ([1f0ff44](https://github.com/gopisaba/test-release/commit/1f0ff440eaeedd2c84141bc7901edab9d68c6d89))
+
+
+### Performance Improvements
+
+* **helm:** update helm chart version ([c7b0ce0](https://github.com/gopisaba/test-release/commit/c7b0ce00eda37bd15ed5c497af84631fb57acd7e))
+
 ## [2.2.4](https://github.com/gopisaba/test-release/compare/v2.2.3...v2.2.4) (2020-05-04)
 
 
