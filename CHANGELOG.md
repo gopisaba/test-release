@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/gopisaba/test-release/compare/v2.2.0...v2.2.1) (2020-05-04)
+
+
+### Bug Fixes
+
+* **docs:** update the documentation (fix) ([f12a8dc](https://github.com/gopisaba/test-release/commit/f12a8dc55b0ad5f1475563af1e96f009af6da37d))
+
 # [2.2.0](https://github.com/gopisaba/test-release/compare/v2.1.0...v2.2.0) (2020-05-04)
 
 
