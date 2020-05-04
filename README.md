@@ -6,6 +6,17 @@ This Repository to test the ChangeLog and semver.
 This is going to be a fix commit
 BREAKING CHANGE in commit message
 
+## Installation
+
+```bash
+npm install -g \
+  auto-changelog \
+  commitizen \
+  semantic-release \
+  semantic-release/changelog \
+  semantic-release/git
+```
+
 ## Commit analyzer
 
 [Reference](https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-release-rules.js)
