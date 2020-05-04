@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/gopisaba/test-release/compare/v2.2.5...v2.3.0) (2020-05-04)
+
+
+### Features
+
+* **virtualservice:** adding virtualservice to helm template ([20f6b67](https://github.com/gopisaba/test-release/commit/20f6b6753d2a978dc6ccdd917ad6f498ffae9a39))
+
 ## [2.2.5](https://github.com/gopisaba/test-release/compare/v2.2.4...v2.2.5) (2020-05-04)
 
 
