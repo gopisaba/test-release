@@ -20,6 +20,7 @@ npm install -g \
 ## Commit analyzer
 
 [Reference](https://github.com/semantic-release/commit-analyzer/blob/master/lib/default-release-rules.js)
+[Reference](https://github.com/semantic-release/commit-analyzer#releaserules)
 [Reference](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
 | keyword  | release |
