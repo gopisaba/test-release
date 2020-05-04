@@ -1,3 +1,11 @@
+# [2.2.0](https://github.com/gopisaba/test-release/compare/v2.1.0...v2.2.0) (2020-05-04)
+
+
+### Features
+
+* **actions:** github Actions ([495741a](https://github.com/gopisaba/test-release/commit/495741a0151bd7828eb457aa0da21c254c22aa1b))
+* **actions:** use semantic-release-action actions ([16c5ba3](https://github.com/gopisaba/test-release/commit/16c5ba3ceedcabcf11f0602e97a3630fd6f5b0d1))
+
 # [2.1.0](https://github.com/gopisaba/test-release/compare/v2.0.1...v2.1.0) (2020-05-04)
 
 
