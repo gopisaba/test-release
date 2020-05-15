@@ -4,8 +4,7 @@ plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
   - - "@semantic-release/exec"
-    - prepareCmd: |
-        scripts/publish.sh ${nextRelease.version}
+    - publishCmd: ./scripts/publish.sh ${nextRelease.version}
   - - "@semantic-release/github"
     - assets:
       - anotherchart-*.tgz
