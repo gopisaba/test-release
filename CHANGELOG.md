@@ -1,3 +1,10 @@
+## [3.3.4](https://github.com/gopisaba/test-release/compare/v3.3.3...v3.3.4) (2020-05-15)
+
+
+### Bug Fixes
+
+* print pwd and ls ([7926ac4](https://github.com/gopisaba/test-release/commit/7926ac46faaf44835bbb3b2bee9f239a804bcbc3))
+
 ## [3.3.3](https://github.com/gopisaba/test-release/compare/v3.3.2...v3.3.3) (2020-05-15)
 
 
