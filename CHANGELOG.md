@@ -1,3 +1,10 @@
+## [3.3.1](https://github.com/gopisaba/test-release/compare/v3.3.0...v3.3.1) (2020-05-15)
+
+
+### Bug Fixes
+
+* Update the download url ([0b1bcb9](https://github.com/gopisaba/test-release/commit/0b1bcb9dbab8c57ca84b2d2e2a87a6401db6f127))
+
 # [3.3.0](https://github.com/gopisaba/test-release/compare/v3.2.0...v3.3.0) (2020-05-15)
 
 
