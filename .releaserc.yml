@@ -4,7 +4,12 @@ plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
   - - "@semantic-release/exec"
-    - prepareCmd: scripts/publish.sh
+    - prepareCmd: |
+        wget https://get.helm.sh/helm-v3.2.1-linux-amd64.tar.gz && \
+        tar -zxvf helm-v3.2.1-linux-amd64.tar.gz && \
+        sed -i "s/version: .*/version: ${nextRelease.version}/g" anotherchart/Chart.yaml && \
+        linux-amd64/helm package --version ${nextRelease.version} anotherchart/. && \
+        linux-amd64/helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml anotherchart/.
   - - "@semantic-release/github"
     - assets:
       - anotherchart-${nextRelease.version}.tgz
