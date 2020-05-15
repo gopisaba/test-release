@@ -1,3 +1,10 @@
+## [3.1.5](https://github.com/gopisaba/test-release/compare/v3.1.4...v3.1.5) (2020-05-15)
+
+
+### Bug Fixes
+
+* add update-to-date index.html and artifact ([13d2bc2](https://github.com/gopisaba/test-release/commit/13d2bc20a2d00d5d366fdf315da20c19cac669fa))
+
 ## [3.1.4](https://github.com/gopisaba/test-release/compare/v3.1.3...v3.1.4) (2020-05-15)
 
 
