@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/gopisaba/test-release/compare/v3.0.0...v3.1.0) (2020-05-15)
+
+
+### Features
+
+* helm package and publish ([91fbd7a](https://github.com/gopisaba/test-release/commit/91fbd7aba18ca70d12871c9fc4500d4f389eaf3e))
+
 # [3.0.0](https://github.com/gopisaba/test-release/compare/v2.3.0...v3.0.0) (2020-05-15)
 
 
