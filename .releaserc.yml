@@ -9,7 +9,7 @@ plugins:
         tar -zxvf helm-v3.2.1-linux-amd64.tar.gz && \
         sed -i "s/version: .*/version: ${nextRelease.version}/g" anotherchart/Chart.yaml && \
         linux-amd64/helm package --version ${nextRelease.version} anotherchart/. && \
-        linux-amd64/helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml anotherchart/.
+        linux-amd64/helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml .
   - - "@semantic-release/github"
     - assets:
       - anotherchart-*.tgz
