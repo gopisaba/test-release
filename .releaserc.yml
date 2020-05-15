@@ -3,9 +3,14 @@ branches:
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
-  - "@semantic-release/github"
   - - "@semantic-release/exec"
-    - prepareCmd: "sed -i \"s/version: .*/version: ${nextRelease.version}/g\" anotherchart/Chart.yaml"
+    - prepareCmd: |
+        sed -i \"s/version: .*/version: ${nextRelease.version}/g\" anotherchart/Chart.yaml
+        helm package --version ${nextRelease.version} anotherchart/.
+        helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml anotherchart/.
+  - - "@semantic-release/github"
+    - assets:
+      - anotherchart-${nextRelease.version}.tgz
   - - "@semantic-release/changelog"
     - assets:
       - CHANGELOG.md
