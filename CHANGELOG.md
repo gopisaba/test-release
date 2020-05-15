@@ -1,3 +1,11 @@
+# [3.2.0](https://github.com/gopisaba/test-release/compare/v3.1.6...v3.2.0) (2020-05-15)
+
+
+### Features
+
+* run from bash script ([b98c192](https://github.com/gopisaba/test-release/commit/b98c192fd065154a36ad8ece8d2b17d689569366))
+* run from bash script ([63d2115](https://github.com/gopisaba/test-release/commit/63d21158acd6f69b3e15b57cb303e5ea6c574c49))
+
 ## [3.1.6](https://github.com/gopisaba/test-release/compare/v3.1.5...v3.1.6) (2020-05-15)
 
 
