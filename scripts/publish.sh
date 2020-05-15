@@ -1,5 +1,3 @@
-#!/bin/bash -eou
-
 # Variables
 version=$1
 
