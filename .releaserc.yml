@@ -12,7 +12,7 @@ plugins:
         linux-amd64/helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml anotherchart/.
   - - "@semantic-release/github"
     - assets:
-      - anotherchart-${nextRelease.version}.tgz
+      - anotherchart-*.tgz
   - - "@semantic-release/changelog"
     - assets:
       - CHANGELOG.md
@@ -20,3 +20,4 @@ plugins:
     - assets:
       - CHANGELOG.md
       - anotherchart/Chart.yaml
+      - index.yaml
