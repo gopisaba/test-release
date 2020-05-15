@@ -1,6 +1,25 @@
 # [3.0.0](https://github.com/gopisaba/test-release/compare/v2.3.0...v3.0.0) (2020-05-15)
 
 
+### Features
+
+* Add the chart.yaml to releaserc ([cc62137](https://github.com/gopisaba/test-release/commit/cc621372b69b8f4801aeea0c4c99f1c7bae08464))
+
+
+### improvement
+
+* **ingress:** remove ingress template ([67b5d2b](https://github.com/gopisaba/test-release/commit/67b5d2b7b0c7462f3b4d7ae4ae7c3eaf51d4eb26))
+
+
+### BREAKING CHANGES
+
+* **ingress:** REmoves the ingress resource
+
+1
+
+# [3.0.0](https://github.com/gopisaba/test-release/compare/v2.3.0...v3.0.0) (2020-05-15)
+
+
 ### improvement
 
 * **ingress:** remove ingress template ([67b5d2b](https://github.com/gopisaba/test-release/commit/67b5d2b7b0c7462f3b4d7ae4ae7c3eaf51d4eb26))
