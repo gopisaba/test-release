@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/gopisaba/test-release/compare/v3.1.1...v3.1.2) (2020-05-15)
+
+
+### Bug Fixes
+
+* run the scripts/publish.sh ([563a92a](https://github.com/gopisaba/test-release/commit/563a92a0024cc20f39b1677f3fb02dcc7d4ffadd))
+
 ## [3.1.1](https://github.com/gopisaba/test-release/compare/v3.1.0...v3.1.1) (2020-05-15)
 
 
