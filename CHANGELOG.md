@@ -1,3 +1,10 @@
+## [3.1.6](https://github.com/gopisaba/test-release/compare/v3.1.5...v3.1.6) (2020-05-15)
+
+
+### Bug Fixes
+
+* update the index.yaml correctly ([6a96dc0](https://github.com/gopisaba/test-release/commit/6a96dc017d447010e9afd35766ecf45df37ef12d))
+
 ## [3.1.5](https://github.com/gopisaba/test-release/compare/v3.1.4...v3.1.5) (2020-05-15)
 
 
