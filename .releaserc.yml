@@ -4,10 +4,7 @@ plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
   - - "@semantic-release/exec"
-    - prepareCmd: |
-        sed -i \"s/version: .*/version: ${nextRelease.version}/g\" anotherchart/Chart.yaml
-        helm package --version ${nextRelease.version} anotherchart/.
-        helm repo index --url https://gopisaba.github.io/test-release/ --merge index.yaml anotherchart/.
+    - prepareCmd: scripts/publish.sh
   - - "@semantic-release/github"
     - assets:
       - anotherchart-${nextRelease.version}.tgz
