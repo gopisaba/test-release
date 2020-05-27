@@ -1,3 +1,17 @@
+# [4.0.0-nonprod.1](https://github.com/gopisaba/test-release/compare/v3.4.0-nonprod.1...v4.0.0-nonprod.1) (2020-05-27)
+
+
+### Bug Fixes
+
+* adding more and more helm description ([55d8048](https://github.com/gopisaba/test-release/commit/55d80488a4effc8b46cbb1d2c6efb22bd8092023))
+* adding more description ([60b8c4a](https://github.com/gopisaba/test-release/commit/60b8c4aea32fa985097b0b4afaa0a924c453a058))
+* Update the helm description ([1ef41ee](https://github.com/gopisaba/test-release/commit/1ef41ee28a2b5817b85c3f349d373d605f7fc4e8))
+
+
+### BREAKING CHANGES
+
+* Last few commits breaking change didn't work. Hope this works.
+
 # [4.0.0-staging.1](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.4...v4.0.0-staging.1) (2020-05-27)
 
 
