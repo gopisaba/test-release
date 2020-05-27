@@ -1,3 +1,10 @@
+# [3.4.0-staging.4](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.3...v3.4.0-staging.4) (2020-05-27)
+
+
+### Bug Fixes
+
+* adding more description ([0e931bb](https://github.com/gopisaba/test-release/commit/0e931bb705aebf5ecc84e811ede9c89721087f5e))
+
 # [3.4.0-staging.3](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.2...v3.4.0-staging.3) (2020-05-27)
 
 
