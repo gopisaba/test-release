@@ -7,16 +7,10 @@ branches:
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
-  - - "@semantic-release/exec"
-    - publishCmd: ./scripts/publish.sh ${nextRelease.version}
-  - - "@semantic-release/github"
-    - assets:
-      - anotherchart-*.tgz
+  - "@semantic-release/github"
   - - "@semantic-release/changelog"
     - assets:
       - CHANGELOG.md
   - - "@semantic-release/git"
     - assets:
       - CHANGELOG.md
-      - anotherchart/Chart.yaml
-      - index.yaml
