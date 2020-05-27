@@ -1,3 +1,10 @@
+# [3.4.0-staging.1](https://github.com/gopisaba/test-release/compare/v3.3.4...v3.4.0-staging.1) (2020-05-27)
+
+
+### Features
+
+* **release:** new pre-release config ([094d527](https://github.com/gopisaba/test-release/commit/094d527472a26f5f0908e8d706e4e9ed22175394))
+
 ## [3.3.4](https://github.com/gopisaba/test-release/compare/v3.3.3...v3.3.4) (2020-05-15)
 
 
