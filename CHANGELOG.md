@@ -1,3 +1,10 @@
+# [3.4.0-staging.3](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.2...v3.4.0-staging.3) (2020-05-27)
+
+
+### Bug Fixes
+
+* Update the helm description ([8fca2f6](https://github.com/gopisaba/test-release/commit/8fca2f6fd613fff17168c64d5f3709cd2d8685a9))
+
 # [3.4.0-staging.2](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.1...v3.4.0-staging.2) (2020-05-27)
 
 
