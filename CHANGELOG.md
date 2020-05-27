@@ -1,3 +1,23 @@
+# [4.0.0](https://github.com/gopisaba/test-release/compare/v3.3.4...v4.0.0) (2020-05-27)
+
+
+### Bug Fixes
+
+* adding more and more helm description ([55d8048](https://github.com/gopisaba/test-release/commit/55d80488a4effc8b46cbb1d2c6efb22bd8092023))
+* adding more description ([60b8c4a](https://github.com/gopisaba/test-release/commit/60b8c4aea32fa985097b0b4afaa0a924c453a058))
+* no need to helm package ([a71b071](https://github.com/gopisaba/test-release/commit/a71b071f6579cd11fd62d47a69bf3ea4aef1c2e3))
+* Update the helm description ([1ef41ee](https://github.com/gopisaba/test-release/commit/1ef41ee28a2b5817b85c3f349d373d605f7fc4e8))
+
+
+### Features
+
+* **release:** new pre-release config ([094d527](https://github.com/gopisaba/test-release/commit/094d527472a26f5f0908e8d706e4e9ed22175394))
+
+
+### BREAKING CHANGES
+
+* Last few commits breaking change didn't work. Hope this works.
+
 # [4.0.0-staging.1](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.4...v4.0.0-staging.1) (2020-05-27)
 
 
