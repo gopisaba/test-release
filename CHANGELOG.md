@@ -1,3 +1,15 @@
+# [3.4.0-nonprod.1](https://github.com/gopisaba/test-release/compare/v3.3.4...v3.4.0-nonprod.1) (2020-05-27)
+
+
+### Bug Fixes
+
+* no need to helm package ([a71b071](https://github.com/gopisaba/test-release/commit/a71b071f6579cd11fd62d47a69bf3ea4aef1c2e3))
+
+
+### Features
+
+* **release:** new pre-release config ([094d527](https://github.com/gopisaba/test-release/commit/094d527472a26f5f0908e8d706e4e9ed22175394))
+
 # [3.4.0-staging.2](https://github.com/gopisaba/test-release/compare/v3.4.0-staging.1...v3.4.0-staging.2) (2020-05-27)
 
 
