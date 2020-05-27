@@ -1,7 +1,7 @@
 apiVersion: v2
 name: anotherchart
 description: |
-  A Helm chart for Kubernetes
+  A Helm chart for Kubernetes. Adding more description
 
 # A chart can be either an 'application' or a 'library' chart.
 #
