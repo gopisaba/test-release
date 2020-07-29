@@ -7,6 +7,7 @@
 This Repository to test the ChangeLog and semver.
 This is going to be a fix commit
 BREAKING CHANGE in commit message
+Making this change to see vscode GH PR and Issues work.
 
 ## Installation
 
