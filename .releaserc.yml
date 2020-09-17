@@ -1,10 +1,17 @@
 branches:
-  - name: "master"
-  - name: staging
-    prerelease: true
-  - name: nonprod
-    prerelease: true
+  - "master"
+tagFormat: ${version}
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
+  - - "@semantic-release/exec"
+    - prepareCmd: |
+        sed "s/^version '.*'/version '${nextRelease.version}'/g" cookbooks/releasecook/metadata.rb
   - "@semantic-release/github"
+  - - "@semantic-release/changelog"
+    - assets:
+      - cookbooks/releasecook/CHANGELOG.md
+  - - "@semantic-release/git"
+    - assets:
+      - cookbooks/releasecook/CHANGELOG.md
+      - cookbooks/releasecook/metadata.rb
