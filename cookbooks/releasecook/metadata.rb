@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures releasecook'
 long_description 'Installs/Configures releasecook'
-version '0.1.0'
+version '6.0.1'
 chef_version '>= 14.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
