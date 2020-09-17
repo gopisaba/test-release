@@ -9,8 +9,7 @@ plugins:
         sed -i "s/^version '.*'/version '${nextRelease.version}'/g" cookbooks/releasecook/metadata.rb
   - "@semantic-release/github"
   - - "@semantic-release/changelog"
-    - assets:
-      - cookbooks/releasecook/CHANGELOG.md
+    - changelogFile: cookbooks/releasecook/CHANGELOG.md
   - - "@semantic-release/git"
     - assets:
       - cookbooks/releasecook/CHANGELOG.md
