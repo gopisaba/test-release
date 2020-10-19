@@ -12,4 +12,5 @@ jobs:
         uses: rtCamp/action-slack-notify@master
         env:
           SLACK_CHANNEL: dig-phantom-core
+          SLACK_USERNAME: runners
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
