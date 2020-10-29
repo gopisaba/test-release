@@ -1,1 +1,0 @@
-# New recipe for SFTP
