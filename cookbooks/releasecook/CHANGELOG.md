@@ -1,3 +1,15 @@
+# [6.1.0](https://github.com/gopisaba/test-release/compare/v6.0.0...v6.1.0) (2020-10-29)
+
+
+### Bug Fixes
+
+* add master to releaserc ([9a0c7a8](https://github.com/gopisaba/test-release/commit/9a0c7a866ded52b37564f7378a9dde0a8daef43a))
+
+
+### Features
+
+* new 7.x release ([dd80cb7](https://github.com/gopisaba/test-release/commit/dd80cb7c4e2ab28de662d6d07fcf70bfc02ceb6b))
+
 # [6.0.0](https://github.com/gopisaba/test-release/compare/v5.1.0...v6.0.0) (2020-10-29)
 
 
