@@ -1,3 +1,10 @@
+## [7.0.1](https://github.com/gopisaba/test-release/compare/v7.0.0...v7.0.1) (2020-10-29)
+
+
+### Bug Fixes
+
+* newfile ([a38d368](https://github.com/gopisaba/test-release/commit/a38d368a4ffd6f99783d86e3a32ab6c8cfc86e47))
+
 # [7.0.0](https://github.com/gopisaba/test-release/compare/v6.1.0...v7.0.0) (2020-10-29)
 
 
