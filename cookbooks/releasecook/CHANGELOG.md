@@ -1,3 +1,10 @@
+# [9.1.0](https://github.com/gopisaba/test-release/compare/v9.0.0...v9.1.0) (2020-10-29)
+
+
+### Features
+
+* add new file fine-new-file ([332bd5f](https://github.com/gopisaba/test-release/commit/332bd5f375b0828bf12fba7e3ed577d11adeb7e6))
+
 # [9.0.0](https://github.com/gopisaba/test-release/compare/v8.1.0...v9.0.0) (2020-10-29)
 
 
