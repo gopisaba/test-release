@@ -1,3 +1,22 @@
+# [9.0.0](https://github.com/gopisaba/test-release/compare/v8.1.0...v9.0.0) (2020-10-29)
+
+
+### Features
+
+* add dot in README ([88b7f73](https://github.com/gopisaba/test-release/commit/88b7f73fd9748eb560c67f1e6b471c62f6849952))
+
+
+### BREAKING CHANGES
+
+* really breaking change
+
+# [8.1.0](https://github.com/gopisaba/test-release/compare/v8.0.0...v8.1.0) (2020-10-29)
+
+
+### Features
+
+* removed newfiles ([cd62f10](https://github.com/gopisaba/test-release/commit/cd62f103de27363083210a881b5bdb8ef1a6d597))
+
 # [8.0.0](https://github.com/gopisaba/test-release/compare/v7.0.0...v8.0.0) (2020-10-29)
 
 
