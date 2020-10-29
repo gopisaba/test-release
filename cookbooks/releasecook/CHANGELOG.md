@@ -1,3 +1,23 @@
+# [7.0.0](https://github.com/gopisaba/test-release/compare/v6.1.0...v7.0.0) (2020-10-29)
+
+
+### Bug Fixes
+
+* list release branches ([94b9e4d](https://github.com/gopisaba/test-release/commit/94b9e4d7d2d1cd0b3eff7e8be195675f1f4978d6))
+* remove all the branches from releaserc ([e706afa](https://github.com/gopisaba/test-release/commit/e706afa28095ce9ab3fac39a852fe3590165a2f8))
+* removed test workflow ([855c448](https://github.com/gopisaba/test-release/commit/855c4482ff0c5bf679f66dbed750940ee34ebee0))
+
+
+### Features
+
+* next release ([f1d3d9b](https://github.com/gopisaba/test-release/commit/f1d3d9b522fe39e1954e983e4f1923236aac0e9a))
+* release from next too ([9e316b1](https://github.com/gopisaba/test-release/commit/9e316b1325d1d7dea5e6004a10dd5c34159f34e6))
+
+
+### BREAKING CHANGES
+
+* next release
+
 # [6.1.0](https://github.com/gopisaba/test-release/compare/v6.0.0...v6.1.0) (2020-10-29)
 
 
