@@ -35,6 +35,28 @@
 * new sftp recipe ([fbd8e66](https://github.com/gopisaba/test-release/commit/fbd8e66afc5b55e34619a3090f1094eea06b8259))
 * next release ([f1d3d9b](https://github.com/gopisaba/test-release/commit/f1d3d9b522fe39e1954e983e4f1923236aac0e9a))
 * release from next too ([9e316b1](https://github.com/gopisaba/test-release/commit/9e316b1325d1d7dea5e6004a10dd5c34159f34e6))
+* removed the sftp receipe ([42596ed](https://github.com/gopisaba/test-release/commit/42596eddd61be138b510c628f5d2f61db7361f5b))
+
+
+### BREAKING CHANGES
+
+* next release
+
+# [7.0.0](https://github.com/gopisaba/test-release/compare/v6.1.0...v7.0.0) (2020-10-29)
+
+
+### Bug Fixes
+
+* list release branches ([94b9e4d](https://github.com/gopisaba/test-release/commit/94b9e4d7d2d1cd0b3eff7e8be195675f1f4978d6))
+* remove all the branches from releaserc ([e706afa](https://github.com/gopisaba/test-release/commit/e706afa28095ce9ab3fac39a852fe3590165a2f8))
+* removed test workflow ([855c448](https://github.com/gopisaba/test-release/commit/855c4482ff0c5bf679f66dbed750940ee34ebee0))
+
+
+### Features
+
+* new sftp recipe ([fbd8e66](https://github.com/gopisaba/test-release/commit/fbd8e66afc5b55e34619a3090f1094eea06b8259))
+* next release ([f1d3d9b](https://github.com/gopisaba/test-release/commit/f1d3d9b522fe39e1954e983e4f1923236aac0e9a))
+* release from next too ([9e316b1](https://github.com/gopisaba/test-release/commit/9e316b1325d1d7dea5e6004a10dd5c34159f34e6))
 
 
 ### BREAKING CHANGES
