@@ -3,8 +3,7 @@ on:
   push:
     branches:
       - master
-      - staging
-      - nonprod
+      - 1.x
 jobs:
   release:
     name: Release
