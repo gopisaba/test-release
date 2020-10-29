@@ -2,9 +2,8 @@ name: Release
 on:
   push:
     branches:
+      - '+([0-9])?(.{+([0-9]),x}).x'
       - master
-      - staging
-      - nonprod
 jobs:
   release:
     name: Release
