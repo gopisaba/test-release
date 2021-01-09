@@ -1,0 +1,30 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      ACTIONS:
+        description: "Inputs"
+        required: false
+        default: "one two three"
+jobs:
+  job1:
+    name: Job 1
+    if: ${{ contains(github.event.inputs.ACTIONS, 'ONE') }}
+    runs-on: ubuntu-18.04
+    steps:
+      - run: echo 1
+  job2:
+    name: Job 2
+    if: ${{ success() && contains(github.event.inputs.ACTIONS, 'ONE') }}
+    needs: job1
+    runs-on: ubuntu-18.04
+    steps:
+      - run: echo 2
+  job3:
+    name: Job 3
+    if: ${{ success() && contains(github.event.inputs.ACTIONS, 'ONE') }}
+    needs: job2
+    runs-on: ubuntu-18.04
+    steps:
+      - run: echo 3
+  
